@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  reversed = string.reverse 
+  reversed = string.reverse
 end
-reversed 
+reversed
 end
